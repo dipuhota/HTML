@@ -1,0 +1,32 @@
+div {
+    padding: 15px;
+    margin: 10px;
+    width: 25%;
+    text-align: center ;
+    color: black;
+    display: inline-block;
+    font-family: calc();
+}
+
+
+#div1 {
+    background-image: linear-gradient(90deg,rgb(212, 214, 94),rgb(133, 46, 5));
+
+}
+#div2 {
+    background-image: linear-gradient(90deg,rgb(124, 11, 58),rgb(136, 106, 41));
+    
+#div3 {
+    background-image: linear-gradient(90deg,rgb(212, 214, 94),rgb(133, 46, 5));
+
+}
+
+
+button{
+    background-image: linear-gradient(90deg,rgb(27, 71, 121),blue);
+    color: white;
+    width: 90px;
+    height: 25px;
+    border: none;
+    border-radius: 20px;
+}

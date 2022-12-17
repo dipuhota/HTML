@@ -1,0 +1,22 @@
+body {
+    margin: 0PX;
+    padding: 0px;
+    aside{
+    background-color:steelblue;
+    float: left;
+ 
+   height: 100vh;
+}
+
+a{
+    color: white;
+    display: block;
+    padding: 25px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+a:hover{
+    background-color: rgb(146, 33, 150);
+    border-radius: 10px;
+}

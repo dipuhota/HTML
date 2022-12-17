@@ -1,0 +1,17 @@
+body{
+    font-family:arial;
+    text-align:center;
+    background-color:lightgrey;
+    }
+  img{
+    border-radius:50%;
+    max-width:63%;
+  }
+  p{
+    font-size:15px;
+    text-align:justify;
+  }
+  
+  a{
+    color:green;
+  }
